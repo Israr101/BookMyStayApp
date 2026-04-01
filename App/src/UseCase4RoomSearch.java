@@ -89,7 +89,7 @@ class SearchService {
         }
 
         if (!found) {
-            System.out.println("No rooms available at the moment.");
+            System.out.println(" No rooms available at the moment.");
         }
     }
 }
